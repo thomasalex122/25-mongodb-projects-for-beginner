@@ -2,9 +2,6 @@
 
 The To-Do List App is a Node.js, Express, MongoDB, and EJS templating engine-based application designed to help users efficiently manage their tasks.
 
-### Click Here to Open [To-Do List App](https://to-do-list-rz0n.onrender.com/)
-
-![Todo App Preview](https://github.com/AmanKumarSinhaGitHub/To-Do-List-App/assets/65329366/3e810143-7dbd-46d5-a21d-1bea26a731dc)
 
 ## Prerequisites
 
@@ -168,16 +165,8 @@ If you encounter any bugs or issues, please open an issue with a detailed descri
 
 This project was created using Node.js, Express, MongoDB, and the EJS templating engine. Special thanks to the authors and contributors of these technologies.
 
-## 🚀 About Me
-
-I'm a final-year BCA undergraduate and a full-stack developer.
-
-### Contact Details
-
-- Email: amankrsinha07@gmail.com
-- LinkedIn Profile: [@AmanKumarSinha](https://www.linkedin.com/in/amankumarsinha)
 
 ## Checkout my new TO DO LIST app in REACT
-- GitHub link - https://github.com/AmanKumarSinhaGitHub/React-To-Do-List-App
+
 - LIVE demo - https://amankumarsinhagithub.github.io/React-To-Do-List-App/
 - Addition feature of this app : Your to-do list is automatically saved to local storage. This means your tasks will stay even if you refresh the page or reopen the app.
