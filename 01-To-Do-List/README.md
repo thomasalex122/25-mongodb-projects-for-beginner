@@ -17,7 +17,7 @@ Follow these steps to set up the application:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/AmanKumarSinhaGitHub/To-Do-List-App.git
+   git clone https://github.com/thomasalex122/25-mongodb-projects-for-beginner/tree/home/01-To-Do-List
    ```
 
 2. Navigate to the project directory:
